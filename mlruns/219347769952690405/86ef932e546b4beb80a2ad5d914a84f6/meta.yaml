@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow-tut2/mlruns/219347769952690405/86ef932e546b4beb80a2ad5d914a84f6/artifacts
+end_time: 1692532391002
+entry_point_name: ''
+experiment_id: '219347769952690405'
+lifecycle_stage: active
+run_id: 86ef932e546b4beb80a2ad5d914a84f6
+run_name: drop_and_evaluate
+run_uuid: 86ef932e546b4beb80a2ad5d914a84f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692532370762
+status: 3
+tags: []
+user_id: User

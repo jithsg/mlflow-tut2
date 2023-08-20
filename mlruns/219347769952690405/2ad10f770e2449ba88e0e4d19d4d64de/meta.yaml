@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow-tut2/mlruns/219347769952690405/2ad10f770e2449ba88e0e4d19d4d64de/artifacts
+end_time: 1692532385908
+entry_point_name: ''
+experiment_id: '219347769952690405'
+lifecycle_stage: active
+run_id: 2ad10f770e2449ba88e0e4d19d4d64de
+run_name: bittersweet-foal-528
+run_uuid: 2ad10f770e2449ba88e0e4d19d4d64de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692532383400
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow-tut2/mlruns/219347769952690405/caf6ad86ee064c82900a9c83f4e2dab1/artifacts
+end_time: 1692531863391
+entry_point_name: ''
+experiment_id: '219347769952690405'
+lifecycle_stage: active
+run_id: caf6ad86ee064c82900a9c83f4e2dab1
+run_name: thoughtful-gnat-642
+run_uuid: caf6ad86ee064c82900a9c83f4e2dab1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692531859011
+status: 3
+tags: []
+user_id: User

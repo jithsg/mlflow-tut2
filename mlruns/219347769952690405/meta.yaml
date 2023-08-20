@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/User/Desktop/mlflow-tut2/mlruns/219347769952690405
+creation_time: 1692531858804
+experiment_id: '219347769952690405'
+last_update_time: 1692531858804
+lifecycle_stage: active
+name: LinearRegressionExperiment

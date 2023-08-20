@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow-tut2/mlruns/219347769952690405/51966c670a2046348728ca3566230c79/artifacts
+end_time: 1692532380862
+entry_point_name: ''
+experiment_id: '219347769952690405'
+lifecycle_stage: active
+run_id: 51966c670a2046348728ca3566230c79
+run_name: popular-crow-867
+run_uuid: 51966c670a2046348728ca3566230c79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692532378261
+status: 3
+tags: []
+user_id: User

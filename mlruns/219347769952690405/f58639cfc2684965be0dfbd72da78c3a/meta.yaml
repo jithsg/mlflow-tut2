@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/mlflow-tut2/mlruns/219347769952690405/f58639cfc2684965be0dfbd72da78c3a/artifacts
+end_time: 1692532383384
+entry_point_name: ''
+experiment_id: '219347769952690405'
+lifecycle_stage: active
+run_id: f58639cfc2684965be0dfbd72da78c3a
+run_name: trusting-colt-869
+run_uuid: f58639cfc2684965be0dfbd72da78c3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692532380879
+status: 3
+tags: []
+user_id: User
